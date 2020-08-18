@@ -1,0 +1,8 @@
+*.user
+*.exe
+*.ilk
+*.pdb
+HalloWalde/HalloWalde/
+HalloWalde/.vs/HalloWalde/v16/.suo
+HalloWalde/.vs/HalloWalde/v16/Browse.VC.db
+HalloWalde/.vs/HalloWalde/v16/ipch/AutoPCH/ccbfdcd84a84111c/HALLOWALDE.ipch
